@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+greenlet
+boto3
+duckduckgo-search
+beautifulsoup4
+requests
+praw
+python-dotenv
+pydantic
+httpx
